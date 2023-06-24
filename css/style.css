@@ -38,7 +38,6 @@
 }
 
 .testimonial{
-  background-image: url(../images/bg.png);
   background-color: #f8f9fa;
   display: flex;
   flex-direction: column;
@@ -52,4 +51,9 @@
 
 .pricing main{
   width: 80rem;
+}
+
+.banner img{
+  width: 100%;
+  height: auto;
 }
